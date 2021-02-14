@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PapabrodaWireless
+- 👀 I’m interested in Discord BOTS
+- 🌱 I’m currently learning Discord.py, Python.
